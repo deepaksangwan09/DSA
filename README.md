@@ -1,2 +1,18 @@
 # DSA
 A code repo for learning DSA
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/deepaksangwan09/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/deepaksangwan09/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/deepaksangwan09/DSA/tree/master/0424-longest-repeating-character-replacement) |
+<!---LeetCode Topics End-->
