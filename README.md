@@ -15,6 +15,7 @@ A code repo for learning DSA
 | [0076-minimum-window-substring](https://github.com/deepaksangwan09/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepaksangwan09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/deepaksangwan09/DSA/tree/master/0567-permutation-in-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepaksangwan09/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A code repo for learning DSA
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/deepaksangwan09/DSA/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepaksangwan09/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
