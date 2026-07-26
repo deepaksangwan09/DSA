@@ -31,5 +31,14 @@ A code repo for learning DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepaksangwan09/DSA/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/deepaksangwan09/DSA/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepaksangwan09/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/deepaksangwan09/DSA/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/deepaksangwan09/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
