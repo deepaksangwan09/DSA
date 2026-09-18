@@ -10,6 +10,7 @@ A code repo for learning DSA
 | [0424-longest-repeating-character-replacement](https://github.com/deepaksangwan09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/deepaksangwan09/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/deepaksangwan09/DSA/tree/master/0567-permutation-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/deepaksangwan09/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A code repo for learning DSA
 | [0567-permutation-in-string](https://github.com/deepaksangwan09/DSA/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepaksangwan09/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/deepaksangwan09/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2351-first-letter-to-appear-twice](https://github.com/deepaksangwan09/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A code repo for learning DSA
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/deepaksangwan09/DSA/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/deepaksangwan09/DSA/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/deepaksangwan09/DSA/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
