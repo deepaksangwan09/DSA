@@ -44,6 +44,7 @@ A code repo for learning DSA
 | [0496-next-greater-element-i](https://github.com/deepaksangwan09/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepaksangwan09/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/deepaksangwan09/DSA/tree/master/0739-daily-temperatures) |
+| [1672-richest-customer-wealth](https://github.com/deepaksangwan09/DSA/tree/master/1672-richest-customer-wealth) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A code repo for learning DSA
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/deepaksangwan09/DSA/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/deepaksangwan09/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
