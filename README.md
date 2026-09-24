@@ -48,6 +48,7 @@ A code repo for learning DSA
 | [0739-daily-temperatures](https://github.com/deepaksangwan09/DSA/tree/master/0739-daily-temperatures) |
 | [1313-decompress-run-length-encoded-list](https://github.com/deepaksangwan09/DSA/tree/master/1313-decompress-run-length-encoded-list) |
 | [1672-richest-customer-wealth](https://github.com/deepaksangwan09/DSA/tree/master/1672-richest-customer-wealth) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepaksangwan09/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A code repo for learning DSA
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/deepaksangwan09/DSA/tree/master/0292-nim-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/deepaksangwan09/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Brainteaser
 |  |
 | ------- |
