@@ -30,6 +30,7 @@ A code repo for learning DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deepaksangwan09/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0567-permutation-in-string](https://github.com/deepaksangwan09/DSA/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -43,6 +44,7 @@ A code repo for learning DSA
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/deepaksangwan09/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/deepaksangwan09/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepaksangwan09/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/deepaksangwan09/DSA/tree/master/0739-daily-temperatures) |
