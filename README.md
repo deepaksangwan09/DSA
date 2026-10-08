@@ -6,6 +6,7 @@ A code repo for learning DSA
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepaksangwan09/DSA/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/deepaksangwan09/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepaksangwan09/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/deepaksangwan09/DSA/tree/master/0496-next-greater-element-i) |
@@ -44,6 +45,7 @@ A code repo for learning DSA
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepaksangwan09/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepaksangwan09/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/deepaksangwan09/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepaksangwan09/DSA/tree/master/0503-next-greater-element-ii) |
